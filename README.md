@@ -4,8 +4,11 @@ This project shows how I hosted my professional resume as a **static website** u
 ---
 
 📄 **Live Resume PDF (hosted on AWS S3):**  
-[Click here to view resume](https://sruthi-resume-bucket.s3.ap-south-1.amazonaws.com/Simple+Professional+CV+Resume+(5).pdf)
+[Click here to view resume](https://sruthi-resume-bucket.s3.ap-south-1.amazonaws.com/Simple+Professional+CV+Resume+(5).pdf)  if service is deleted
 
+---
+🔁 **Backup Resume (GitHub copy, in case S3 is deleted):**  
+[Click to view resume] (Simple Professional CV Resume(5).pdf)
 ---
 
 ## 📁 What This Project Contains
