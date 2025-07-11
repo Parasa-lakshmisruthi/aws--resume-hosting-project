@@ -8,7 +8,7 @@ This project shows how I hosted my professional resume as a **static website** u
 
 ---
 🔁 **Backup Resume (GitHub copy, in case S3 is deleted):**  
-[Click to view resume] (Simple Professional CV Resume(5).pdf)
+[Click to view resume] (Simple Professional CV Resume(5).pdf---"C:\Users\sruth\Downloads\Simple Professional CV Resume (4).pdf")
 ---
 
 ## 📁 What This Project Contains
